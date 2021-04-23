@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Nikola Bogdanovic, web designer!</title>
+        <link>https://nikolabogdanovic01.github.io/portfolio/index.html</link>
+        <description>News</description>
+            <item>
+                <title>Discount on Random Password Generator</title>
+                <link>https://nikolabogdanovic01/portfolio/index.html</link>
+                <description>There's a discount on my app</description>
+            </item>
+            <item>
+                <title>Update for Site Connectivity Checker</title>
+                <link>https://nikolabogdanovic01/portfolio/index.html</link>
+                <description>I updated my app, check it out</description>
+            </item>
+            <item>
+                <title>New app</title>
+                <link>https://nikolabogdanovic01/portfolio/index.html</link>
+                <description>I published a new app.</description>
+            </item>
+    </channel>
+</rss>
